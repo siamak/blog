@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://siamak.us/blog/blogs/test-1.html</loc>
+        <lastmod>2016-07-01T00:40:03.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://siamak.us/blog/index.html</loc>
         <lastmod>2016-06-30T20:08:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
