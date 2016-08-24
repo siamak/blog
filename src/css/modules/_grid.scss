@@ -1,0 +1,142 @@
+/**
+  * Flexbox default class
+  * See mixins for the properties
+  */
+.container {
+	position: relative;
+	width: $max-width * 1rem;
+	padding: 0 1rem;
+	margin: 0 auto;
+	max-width: 100%;
+}
+.display-flex {
+	display: flex;
+	flex: 1;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.float-right {
+	float: right;
+}
+.float-left {
+	float: left;
+}
+
+/**
+  * Rows & Columns for the grid
+  */
+.clear {
+	&:before {
+		content: " ";
+		display: table;
+	}
+	&:after {
+		content: " ";
+		display: table;
+		clear: both;
+	}
+}
+
+
+/**
+  * Flex positioning classes for flex containers.
+  * Targets all child flex items.
+  */
+
+.row-flex,
+.display-flex {
+
+    /* On all items - add to parent container */
+
+    &.items-top {
+        align-items: flex-start;
+    }
+    &.items-center-v {
+        align-items: center;
+    }
+    &.items-bottom {
+        align-items: flex-end;
+    }
+    &.items-baseline {
+        align-items: baseline;
+    }
+    &.items-left {
+        justify-content: flex-start;
+    }
+    &.items-center-h {
+        justify-content: center;
+    }
+    &.items-right {
+        justify-content: flex-end;
+    }
+    &.items-spaced-around {
+        justify-content: space-around;
+    }
+    &.items-spaced-between {
+        justify-content: space-between;
+    }
+
+    /* On individual items */
+
+    .item-top {
+        align-self: flex-start;
+    }
+    .item-center-v {
+        align-self: center;
+    }
+    .item-bottom {
+        align-self: flex-end;
+    }
+    .item-baseline {
+        align-self: baseline;
+    }
+    .item-first {
+        order: -1;
+    }
+    .item-last {
+        order: 1;
+    }
+}
+
+.row-flex {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+    &:before {
+        content: " ";
+        display: table;
+    }
+    &:after {
+        content: " ";
+        display: table;
+        clear: both;
+    }
+    .col {
+		display: flex;
+		flex-direction: column;
+		flex-grow: 1;
+		flex-shrink: 0;
+    }
+	[class*="col-pp"] {
+		position: relative;
+		flex-basis: 100%;
+		max-width: 100%;
+		margin: 0 -1px;
+	}
+	@media (min-width: $phone-landscape-size) {
+		.col-pp-15 {
+			flex-basis: 15%;
+			max-width: 15%;
+		}
+		.col-pp-85 {
+			flex-basis: 85%;
+			max-width: 85%;
+		}
+		.col-pp-50 {
+			flex-basis: 50%;
+			max-width: 50%;
+		}
+	}
+}

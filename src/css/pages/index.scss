@@ -1,0 +1,57 @@
+@import "modules/variables";
+@import "modules/functions";
+@import "modules/mixins";
+
+.posts {
+	@include margin-top(1);
+}
+
+
+.card {
+	@include padding(0, 0, 1, 1);
+	// @include ruler-patch(true);
+	-webkit-tap-highlight-color: rgba($primary-color, 0.44);
+	min-height: 100%;
+
+	@media (max-width: $phone-landscape-size) {
+		@include padding(0, 0.5, 1, 0.5);
+	}
+	&__body {
+		&-title {
+			margin: 0;
+			@include font-size(2.211);
+			@include line-height(1);
+			@include margin-bottom(1);
+			@include margin-top(2);
+			font-weight: normal;
+			word-spacing: -0.075em;
+			@extend %letter-spacing;
+		}
+		& > p {
+			margin-top: 0;
+		}
+		&-module {
+			position: relative;
+			@include margin-bottom(0);
+
+			color: $soft-gray;
+			// padding-right: 1em;
+			@extend %letter-spacing;
+			user-select: none;
+		}
+	}
+}
+
+.paging {
+	text-align: center;
+	.button-inline {
+		display: inline-block;
+		vertical-align: middle;
+		margin: 0 1em;
+		i {
+			font-style: normal;
+			display: inline-block;
+			margin: 0 5px;
+		}
+	}
+}

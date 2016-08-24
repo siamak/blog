@@ -1,1 +1,2 @@
-# blog
+# notes
+New generation of my notes.
