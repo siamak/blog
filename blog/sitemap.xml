@@ -3,7 +3,11 @@
 
     <sitemap>
         <loc>http://siamak.us/blog/post-sitemap.xml</loc>
+<<<<<<< HEAD
         <lastmod>2016-07-23T15:58:34.000Z</lastmod>
+=======
+        <lastmod>2016-09-02T13:14:16.000Z</lastmod>
+>>>>>>> parent of e8472e5... Publish #About-Panda
     </sitemap>
 
     <sitemap>
