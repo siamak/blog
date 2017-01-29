@@ -7,32 +7,16 @@
     </url>
 
     <url>
-        <loc>http://siamak.us/blog/blog/fowdconf-94/</loc>
-        <lastmod>2017-01-18T20:51:48.000Z</lastmod>
+        <loc>http://siamak.us/blog/blog/about-panda/</loc>
+        <lastmod>2016-09-02T13:24:49.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://siamak.us/blog/blog/another-birth/</loc>
-        <lastmod>2017-01-18T20:50:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://siamak.us/blog/blog/clickyab-redesign/</loc>
-        <lastmod>2017-01-18T20:49:23.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://siamak.us/blog/blog/netbarg-chrome-extension/</loc>
-        <lastmod>2017-01-06T10:21:16.000Z</lastmod>
+        <loc>http://siamak.us/blog/blog/irDevConf-95/</loc>
+        <lastmod>2016-07-23T17:40:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -41,6 +25,38 @@
     <url>
         <loc>http://siamak.us/blog/blog/hello-world/</loc>
         <lastmod>2016-06-30T19:34:06.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://siamak.us/blog/blog/clickyab-redesign/</loc>
+        <lastmod>2016-06-30T19:34:06.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://siamak.us/blog/blog/netbarg-chrome-extension/</loc>
+        <lastmod>2016-06-30T19:34:06.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://siamak.us/blog/blog/another-birth/</loc>
+        <lastmod>2016-06-30T19:34:05.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://siamak.us/blog/blog/fowdconf-94/</loc>
+        <lastmod>2016-06-29T21:57:47.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
