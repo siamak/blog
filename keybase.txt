@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/siamak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://siamak.us
+  * I am siamak (https://keybase.io/siamak) on keybase.
+  * I have a public key ASA-8k_xps1uVpiQ_eSN8qwrfJWY3r59gvu5N9KCFrG2Dwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c8f85d855742e63bd9c48d56ca14afbc840de6cf093b18df6b760108ec41a6c00a",
+            "host": "keybase.io",
+            "kid": "01203ef24ff1a6cd6e569890fde48df2ac2b7c9598debe7d82fbb937d28216b1b60f0a",
+            "uid": "4562263a9a36d7d1db69b785e853f319",
+            "username": "siamak"
+        },
+        "service": {
+            "hostname": "siamak.us",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487598393,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487598370,
+        "hash": "df061cf74fcae455ba752097ac83dcc4f0573bfd014060f2a2e6c5277a3229113c9ecffce12c14c084f4a297c4ae55c2057f31248fb308e167ee47d02560ac77",
+        "seqno": 907513
+    },
+    "prev": "0a6b07840757330f60fef138973a9c46f42bfa3a1237495cf38bf88e06a0d1e9",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPvJP8abNblaYkP3kjfKsK3yVmN6+fYL7uTfSghaxtg8Kp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzhmODVkODU1NzQyZTYzYmQ5YzQ4ZDU2Y2ExNGFmYmM4NDBkZTZjZjA5M2IxOGRmNmI3NjAxMDhlYzQxYTZjMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2VmMjRmZjFhNmNkNmU1Njk4OTBmZGU0OGRmMmFjMmI3Yzk1OThkZWJlN2Q4MmZiYjkzN2QyODIxNmIxYjYwZjBhIiwidWlkIjoiNDU2MjI2M2E5YTM2ZDdkMWRiNjliNzg1ZTg1M2YzMTkiLCJ1c2VybmFtZSI6InNpYW1hayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2lhbWFrLnVzIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODc1OTgzOTMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NzU5ODM3MCwiaGFzaCI6ImRmMDYxY2Y3NGZjYWU0NTViYTc1MjA5N2FjODNkY2M0ZjA1NzNiZmQwMTQwNjBmMmEyZTZjNTI3N2EzMjI5MTEzYzllY2ZmY2UxMmMxNGMwODRmNGEyOTdjNGFlNTVjMjA1N2YzMTI0OGZiMzA4ZTE2N2VlNDdkMDI1NjBhYzc3Iiwic2Vxbm8iOjkwNzUxM30sInByZXYiOiIwYTZiMDc4NDA3NTczMzBmNjBmZWYxMzg5NzNhOWM0NmY0MmJmYTNhMTIzNzQ5NWNmMzhiZjg4ZTA2YTBkMWU5Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAiyoEiH2yb0MVAgDXHrdzv5ibddR3nexI2u4VQYwV657rw4OPo7dI19VVfEJSsjYHPMv6WQ+4a6PTOyibkDRRA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPxZUJFIuukno+FeLrW2g3Bvlyx1r/DaTBdsGXh8MZWfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/siamak
+
+==================================================================
